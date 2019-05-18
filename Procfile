@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT fun_land_3526.wsgi:application
